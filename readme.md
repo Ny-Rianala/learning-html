@@ -1,6 +1,6 @@
 # Learning html
 
-In this repo, we are looking at the different way to how to learn **html** very fast.
+In this repo, we are looking at the different way how to learn **html** very fast.
 ## Sections:
 
 The website will be broken up into the following sections:
@@ -13,3 +13,5 @@ The website will be broken up into the following sections:
 3. Rules
   * Nesting rules.
   * Attribute rules.
+  
+I wish you will enjoy looking up in this website.
